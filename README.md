@@ -1,2 +1,2 @@
 # Hotel sistem
-College project for a hotel sistem, made with Excel and VBA.
+College project of a hotel sistem, made with Excel and VBA.
